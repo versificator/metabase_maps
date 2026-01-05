@@ -1,1 +1,2 @@
+plz-5stellig.geojson filter=lfs diff=lfs merge=lfs -text
 *.geojson filter=lfs diff=lfs merge=lfs -text
